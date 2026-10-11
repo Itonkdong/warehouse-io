@@ -1,0 +1,36 @@
+# Visual Studio and per-user settings
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+*.pubxml
+*.publish.xml
+serviceDependencies.local.json
+serviceDependencies.*.json.user
+
+# Build output and restored NuGet packages
+[Bb]in/
+[Oo]bj/
+/packages/
+TestResults/
+*.nupkg
+*.snupkg
+
+# Local databases and logs
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.log
+
+# Local configuration
+.env
+.env.*
+!.env.example
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store

@@ -398,9 +398,6 @@
     <Content Include="Views\Manage\VerifyPhoneNumber.cshtml" />
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
-    <Content Include="Views\Shared\save-this.cshtml" />
-    <Content Include="Views\Account\Login - Copy.cshtml" />
-    <Content Include="Views\Account\Register - Copy.cshtml" />
     <Content Include="Views\Home\Dashboard.cshtml" />
     <Content Include="Views\Warehouses\Index.cshtml" />
     <Content Include="Views\Warehouses\Add.cshtml" />
